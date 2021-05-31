@@ -1,4 +1,4 @@
-# Repositório criado para mostrar MVVM-C usando chamadas de API 
+# Repositório criado para mostrar MVVM-C
 
 ## Desafio
 Trocar os botões fixos da tela de Categoria por 
